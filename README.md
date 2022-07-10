@@ -14,3 +14,4 @@ monster.com
 snagjob.com
 ```
 To scrape the website used python-selenium. yes python-selenium is relatively slow but this is a demo for learning purpose.
+Here is the execution video link : https://youtu.be/qoXLh7V6x8M
